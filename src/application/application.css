@@ -1,0 +1,30 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.gradient-background {
+    -fx-background-color: #08113B;
+}
+.background {
+	-fx-background-color:  #D3D3D3;
+}
+.second-background {
+	-fx-background-color: linear-gradient(#463072 , #86A7C7);
+}
+.userAnchorPane{
+	-fx-background-color: linear-gradient(#7BADEE , #AAD6F3);
+	-fx-border-color: linear-gradient(#7BADEE , #AAD6F3);
+	-fx-border-width: 2px 2px 2px 2px ;
+	-fx-border-radius: 50px;
+	-fx-background-radius: 20px ;
+	-fx-border-style: solid  ;
+	
+}
+.bandwidth{
+	-fx-background-color: #364270;
+	-fx-border-color: #364270;
+	-fx-border-width: 2px 2px 2px 2px ;
+	-fx-border-radius: 50px;
+	-fx-background-radius: 20px ;
+	-fx-border-style: solid  ;
+}
+.line{
+	-fx-background-color: #D3D3D3;
+}
